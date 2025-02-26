@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.documentSelectors": ["**/*.sol"],
+  "solidity.formatter": "prettier",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
